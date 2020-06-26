@@ -1,1 +1,4 @@
-int add();
+int add()
+{
+    return 0;
+}
